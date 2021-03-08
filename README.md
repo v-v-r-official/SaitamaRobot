@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="BOT">
-</p>
-
-# Saitama Robot 
+# Group bot 
 
 <p align="center">
 - x -|│  “	Just some code who is a bot for fun. ”  │| - x -
